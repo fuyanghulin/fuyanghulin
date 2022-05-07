@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @fuyanghulin
 - 👀 I’m interested in Java
 - 🇨🇳 I'm in China
-- 🎮 PS5 and Nintendo Switch player
+- 🎮 PS5, Xbox Series S and  Nintendo Switch player
 - 🌱 I’m currently learning kettle
 
 <!---
